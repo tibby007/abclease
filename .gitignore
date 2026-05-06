@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env*.local
+.DS_Store
+**/.DS_Store
+*.log
+.netlify
+.vercel
+next-env.d.ts
+*.tsbuildinfo
+mockup.html
+assets/
